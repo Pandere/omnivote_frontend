@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illutbseenrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="tbseen_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.tbseen0{fill:#B14B96;}
+	.tbseen1{opacity:0.5;clip-path:url(#tbseen_2_);fill:#72196F;}
+	.tbseen2{clip-path:url(#tbseen_4_);}
+	.tbseen3{fill:none;tbseenroke:#343633;tbseenroke-width:4;tbseenroke-linecap:round;tbseenroke-linejoin:round;tbseenroke-miterlimit:10;}
+	.tbseen4{opacity:0.42;fill:none;tbseenroke:#677496;tbseenroke-width:4;tbseenroke-linejoin:round;tbseenroke-miterlimit:10;tbseenroke-dasharray:3;}
+	.tbseen5{fill:#FF6097;}
+	.tbseen6{opacity:0.54;clip-path:url(#tbseen_6_);fill:#F1008C;}
+	.tbseen7{fill:#27A0FF;}
+	.tbseen8{clip-path:url(#tbseen_8_);fill:#008DCF;}
+	.tbseen9{fill:#FFD000;}
+	.tbseen10{clip-path:url(#tbseen_10_);}
+	.tbseen11{fill:#FAB504;}
+	.tbseen12{fill:#FCF4AB;}
+</style>
+<g>
+	<circle class="tbseen0" cx="64" cy="64" r="64"/>
+	<g>
+		<defs>
+			<circle id="tbseen_1_" cx="64" cy="64" r="64"/>
+		</defs>
+		<clipPath id="tbseen_2_">
+			<use xlink:href="#tbseen_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon class="tbseen1" points="33.3,101 60.7,128.5 128,128.5 128,68.7 99.3,39.9 90.9,43.4 79.4,34.1 68.1,36.2 		"/>
+	</g>
+	<g>
+		<defs>
+			<circle id="tbseen_3_" cx="64" cy="64" r="64"/>
+		</defs>
+		<clipPath id="tbseen_4_">
+			<use xlink:href="#tbseen_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="tbseen2">
+			<path class="tbseen3" d="M89.2,37c0,0,23.2-2.4,26.4-20.2"/>
+			<path class="tbseen4" d="M89.2,37c0,0,23.2-2.4,26.4-20.2"/>
+		</g>
+	</g>
+	<path class="tbseen5" d="M79.4,29.2l-11.8,4.1c-3.2,1.1-5.5,3.9-6.1,7.3l-8.6,48.2c-0.9,5.1,2.2,9.9,7.4,10.8l21.8,3.9
+		c5.1,0.9,9.8-2.4,10.7-7.6l8.6-48.2c0.6-3.4-0.6-6.8-3.2-9l-9.8-8C85.8,28.7,82.5,28.1,79.4,29.2z M85.4,44
+		c-0.4,2.3-2.6,3.8-4.8,3.4c-2.3-0.4-3.8-2.6-3.4-4.8c0.4-2.3,2.6-3.8,4.8-3.4C84.3,39.6,85.8,41.8,85.4,44z"/>
+	<g>
+		<defs>
+			<path id="tbseen_5_" d="M79.4,29.2l-11.8,4.1c-3.2,1.1-5.5,3.9-6.1,7.3l-8.6,48.2c-0.9,5.1,2.2,9.9,7.4,10.8l21.8,3.9
+				c5.1,0.9,9.8-2.4,10.7-7.6l8.6-48.2c0.6-3.4-0.6-6.8-3.2-9l-9.8-8C85.8,28.7,82.5,28.1,79.4,29.2z M85.4,44
+				c-0.4,2.3-2.6,3.8-4.8,3.4c-2.3-0.4-3.8-2.6-3.4-4.8c0.4-2.3,2.6-3.8,4.8-3.4C84.3,39.6,85.8,41.8,85.4,44z"/>
+		</defs>
+		<clipPath id="tbseen_6_">
+			<use xlink:href="#tbseen_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon class="tbseen6" points="97.7,51.9 75.6,103.7 69,102.7 		"/>
+	</g>
+	<path class="tbseen7" d="M81.9,28.7L69.3,29c-3.4,0.1-6.4,2.1-8,5.1l-26,49.7c-2.4,4.6-0.8,10.1,3.8,12.5l19.6,10.3
+		c4.6,2.4,10.1,0.6,12.5-4l26-49.7c1.6-3,1.5-6.6-0.4-9.5L90,32.9C88.2,30.2,85.1,28.6,81.9,28.7z M83.2,44.7
+		c-1.1,2-3.6,2.8-5.6,1.8c-2-1.1-2.8-3.6-1.8-5.6c1.1-2,3.6-2.8,5.6-1.8C83.5,40.1,84.2,42.6,83.2,44.7z"/>
+	<g>
+		<defs>
+			<path id="tbseen_7_" d="M81.9,28.7L69.3,29c-3.4,0.1-6.4,2.1-8,5.1l-26,49.7c-2.4,4.6-0.8,10.1,3.8,12.5l19.6,10.3
+				c4.6,2.4,10.1,0.6,12.5-4l26-49.7c1.6-3,1.5-6.6-0.4-9.5L90,32.9C88.2,30.2,85.1,28.6,81.9,28.7z M83.2,44.7
+				c-1.1,2-3.6,2.8-5.6,1.8c-2-1.1-2.8-3.6-1.8-5.6c1.1-2,3.6-2.8,5.6-1.8C83.5,40.1,84.2,42.6,83.2,44.7z"/>
+		</defs>
+		<clipPath id="tbseen_8_">
+			<use xlink:href="#tbseen_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon class="tbseen8" points="92.4,55.8 50.9,104.8 41.5,99.6 		"/>
+	</g>
+	<path class="tbseen9" d="M84.4,28.8l-12.1-3.4c-3.3-0.9-6.7,0.1-9.2,2.5L18.4,72.7c-3.7,3.7-3.8,9.4-0.1,13.1L34,101.4
+		c3.7,3.7,9.4,3.6,13.1-0.1l44.7-44.8c2.4-2.4,3.4-5.9,2.5-9.2l-3.5-12.1C89.9,32.1,87.5,29.7,84.4,28.8z M80.9,44.4
+		c-1.6,1.6-4.3,1.6-5.9,0c-1.6-1.6-1.6-4.3,0-5.9c1.6-1.6,4.3-1.6,5.9,0C82.5,40.1,82.5,42.8,80.9,44.4z"/>
+	<g>
+		<defs>
+			<circle id="tbseen_9_" cx="64" cy="64" r="64"/>
+		</defs>
+		<clipPath id="tbseen_10_">
+			<use xlink:href="#tbseen_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="tbseen10">
+			<path class="tbseen3" d="M78.7,41.6c0,0-10.4-13.6-1.6-21.6s19.7,8,30.4-6"/>
+			<path class="tbseen4" d="M78.7,41.6c0,0-10.4-13.6-1.6-21.6s19.7,8,30.4-6"/>
+		</g>
+	</g>
+	<polygon class="tbseen11" points="40.2,73.8 57.5,90.9 79,69.4 62.3,52.8 	"/>
+	<path class="tbseen12" d="M62.4,53.5l-1.6,9c-0.1,0.5,0.1,0.9,0.5,1.1l8.1,4.3c0.9,0.5,0.7,1.8-0.3,2l-9.2,1.4
+		c-0.5,0.1-0.8,0.4-0.9,0.9l-1.7,9.1c-0.2,1-1.6,1.2-2,0.3l-4-8.2c-0.2-0.4-0.6-0.7-1.1-0.6l-9.1,1.2c-1,0.1-1.6-1.1-0.9-1.8
+		l6.7-6.5c0.3-0.3,0.4-0.8,0.2-1.2l-3.9-8.5c-0.4-0.9,0.6-1.9,1.5-1.4l8.1,4.3c0.4,0.2,0.9,0.2,1.2-0.2l6.6-6.3
+		C61.4,51.8,62.6,52.5,62.4,53.5z"/>
+</g>
+</svg>

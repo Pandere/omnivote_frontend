@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none">
+    <defs/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.273041214">
+        <g id="Artboard" fill="#D8D8D8">
+            <g id="splash" transform="translate(-63.000000, -48.000000)">
+                <g id="Path">
+                    <polygon transform="translate(164.454989, 101.000000) rotate(-360.000000) translate(-164.454989, -101.000000) " points="163.703356 180 146 22 182.909977 22"/>
+                    <polyline points="163.699984 164.068221 180.936355 326.598576 145 326.598576"/>
+                    <polyline transform="translate(81.265178, 169.968178) rotate(-90.000000) translate(-81.265178, -169.968178) " points="80.5333717 251.233355 63.297 88.703 99.2333554 88.703"/>
+                    <polyline transform="translate(95.361797, 131.193487) rotate(-240.000000) translate(-95.361797, -131.193487) " points="96.0936031 49.9283095 113.329975 212.458665 77.3936195 212.458665"/>
+                    <polygon transform="translate(118.606698, 91.493880) rotate(-30.000000) translate(-118.606698, -91.493880) " points="117.721648 184.516592 96.8758989 -1.52883267 140.337496 -1.52883267"/>
+                    <polyline transform="translate(122.193487, 240.361797) rotate(-330.000000) translate(-122.193487, -240.361797) " points="122.925293 159.096619 140.161665 321.626975 104.225309 321.626975"/>
+                    <polyline transform="translate(95.361797, 209.193487) rotate(-120.000000) translate(-95.361797, -209.193487) " points="94.6299912 290.458665 77.3936195 127.92831 113.329975 127.92831"/>
+                    <polyline transform="translate(243.265178, 171.968178) rotate(-90.000000) translate(-243.265178, -171.968178) " points="243.996984 90.703 261.233355 253.233355 225.297 253.233355"/>
+                    <polygon transform="translate(203.482489, 105.643501) rotate(-330.000000) translate(-203.482489, -105.643501) " points="202.730856 184.643501 185.0275 26.6435012 221.937477 26.6435012"/>
+                    <polyline transform="translate(204.193487, 240.361797) rotate(-30.000000) translate(-204.193487, -240.361797) " points="204.925293 159.096619 222.161665 321.626975 186.225309 321.626975"/>
+                    <polyline transform="translate(236.361797, 131.193487) rotate(-300.000000) translate(-236.361797, -131.193487) " points="235.629991 212.458665 218.393619 49.9283095 254.329975 49.9283095"/>
+                    <polyline transform="translate(234.361797, 212.193487) rotate(-60.000000) translate(-234.361797, -212.193487) " points="235.093603 130.92831 237.653784 150.300817 252.329975 293.458665 216.393619 293.458665"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

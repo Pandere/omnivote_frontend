@@ -1,0 +1,138 @@
+/* Spins */
+.spins { padding:20px 20px 40px; text-align:center; }
+.spins h1 { margin:0 0 30px; }
+.spins p { margin:0 0 10px; font-size:16px; font-weight:normal; color:#444; }
+
+.spin-bg { margin:40px -20px 0; padding:20px 0; background:#fff; }
+
+.spin-wrapper { position: relative; }
+
+.spins .arrow { position:absolute; top:-10px; left:50%; margin-left:-10px; z-index:5; }
+
+.spins .press {
+    position:absolute;
+    z-index:5;
+    left:50%;
+    top:50%;
+    margin:-50px 0 0 -35px;
+    width:80px;
+    height:auto;
+    cursor:pointer;
+    filter:"progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12,Color='#444')";
+    filter:url(#drop-shadow);
+    -webkit-filter: drop-shadow(3px 3px 7px rgba(0,0,0,0.2));
+    filter:drop-shadow(3px 3px 7px rgba(0,0,0,0.2));
+}
+
+.animated{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}
+.animated.infinite{-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}
+@-webkit-keyframes pulse{0%{-webkit-transform:scaleX(1);transform:scaleX(1)}50%{-webkit-transform:scale3d(1.05,1.05,1.05);transform:scale3d(1.05,1.05,1.05)}to{-webkit-transform:scaleX(1);transform:scaleX(1)}}
+@keyframes pulse{0%{-webkit-transform:scaleX(1);transform:scaleX(1)}50%{-webkit-transform:scale3d(1.05,1.05,1.05);transform:scale3d(1.05,1.05,1.05)}to{-webkit-transform:scaleX(1);transform:scaleX(1)}}
+.pulse{-webkit-animation-name:pulse;animation-name:pulse;}
+
+
+.roulette { position: relative; }
+.roulette .spin-wrapper { position: relative; }
+.roulette .overlay {
+    position: absolute;
+    left: -40px;
+    right: -40px;
+    top: -40px;
+    bottom: -40%;
+    opacity: 0.7;
+    background-color: #fff;
+    z-index: 9999;
+}
+.gift-bg {
+    background-color: #f5f5f5;
+    background-image: url('/img/splash.svg');
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0;
+    margin: 20px -20px 30px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.gift-bg svg {
+    width: 250px;
+    height: 250px;
+    cursor: pointer;
+}
+.gift-bg #gift-wrapper {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    width: 260px;
+    height: 260px;
+    margin: 20px auto 30px;
+}
+#gift-wrapper .present { width: auto !important; height: auto !important; }
+#gift-wrapper svg { width: 200px; height: 264px; }
+
+.spin-bg { background-color: #fff; padding: 20px 0; margin: 20px -20px 0px; }
+.spin-bg .spin-wrapper {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    width: 260px;
+    height: 260px;
+    margin: 20px auto 30px;
+}
+.spin-bg .spin-wrapper canvas {
+    margin: 0 auto 10px;
+    display: block;
+    filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12,Color='#444')";
+    filter: url(#drop-shadow);
+    -webkit-filter: drop-shadow(3px 3px 7px rgba(0, 0, 0, 0.2));
+    filter: drop-shadow(3px 3px 7px rgba(0, 0, 0, 0.2));
+}
+.spin-bg .spin-wrapper img.press {
+    width: 80px;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    top: 50%;
+    margin-top: -50px;
+    z-index: 5;
+    cursor: pointer;
+    filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12,Color='#444')";
+    filter: url(#drop-shadow);
+    -webkit-filter: drop-shadow(3px 3px 7px rgba(0, 0, 0, 0.2));
+    filter: drop-shadow(3px 3px 7px rgba(0, 0, 0, 0.2));
+}
+.spin-bg .spin-wrapper img.arrow {
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    margin-left: -10px;
+    z-index: 5;
+}
+.normal { margin-top: 5px; font-size: 12px; color: #999; }
+
+.premium .spin-bg {
+    padding: 20px 0;
+    margin: 20px -20px 30px;
+}
+.premium .spin-bg .spin-wrapper {
+    width: 300px;
+    height: 300px;
+    margin: 20px auto 30px;
+}
+.premium .spin-bg .spin-wrapper img.press {
+    width: 140px;
+    left: 50%;
+    margin-left: -70px;
+    top: 50%;
+    margin-top: -70px;
+}
+.premium .spin-bg .spin-wrapper img.arrow {
+    top: 0px;
+    left: 50%;
+    margin-left: -10px;
+}
+.blink { animation: blink 1s linear infinite; }
+@keyframes blink { 50% { opacity: 0.3; } }

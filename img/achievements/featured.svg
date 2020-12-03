@@ -1,0 +1,23 @@
+<svg id="featured_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+<style>.featured0{fill:#695667}.featured1{opacity:.65;clip-path:url(#featured_2_);fill:#503f50}.featured2{fill:#fbb116}.featured3{fill:#ffce46}.featured4{fill:#ffe5a0}.featured5{fill:#fdbc45}.featured6{fill:#ffd46a}.featured7{fill:#FFF}</style>
+<circle class="featured0" cx="64" cy="64" r="64"/>
+<defs>
+<circle id="featured_1_" cx="64" cy="64" r="64"/>
+</defs>
+<clipPath id="featured_2_"><use xlink:href="#featured_1_" overflow="visible"/></clipPath>
+<path class="featured1" d="M64 110.5L81.6 128H128V70.5L91.3 33.8 64.5 60.7z"/>
+<path class="featured2" d="M36.7 33.8h54.6L106 56.1l-42 54.1-42-54.1z"/>
+<g>
+<path class="featured2" d="M64 110.2l42-54.1H81.3zM64 110.2L22 56.1h24.7z"/>
+<path class="featured3" d="M64 110.2L46.7 56.1h34.6z"/>
+<path class="featured4" d="M64 33.8L46.7 56.1h34.6z"/>
+<path class="featured5" d="M46.7 56.1l-10-22.3L22 56.1zM81.3 56.1l10-22.3L106 56.1z"/>
+<path class="featured6" d="M91.3 33.8H64l17.3 22.3zM36.7 33.8H64L46.7 56.1z"/>
+</g>
+<g>
+<path class="featured7" d="M81.4 48.1l1.3 8-1.3 7.9-1.6-7.9z"/>
+<path class="featured7" d="M73.3 55.9l8-1.3 7.9 1.3-7.9 1.6z"/>
+<path class="featured7" d="M84.8 52.7l-2.8 4-4.1 2.9 2.8-4.1z"/>
+<path class="featured7" d="M77.9 52.6l4.1 2.9 2.8 4-4.1-2.8z"/>
+</g>
+</svg>

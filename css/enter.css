@@ -1,0 +1,20 @@
+/* Enter */
+.enter { padding:0 20px 20px; text-align:center; }
+.enter h1 { margin:0 0 30px; }
+
+.enter .facebook { width:100%; padding:14px 10px; font-size:18px; color:#fff; background:#0d2ea9; border:0; border-radius:var(--radius); }
+.gender {}
+.gender input { display:none; }
+.gender label { display:inline-block; margin:0 20px 10px; min-width:100px; border:2px solid #c2c2c2; border-radius:var(--radius); cursor:pointer; }
+.gender label:hover { border-color:#b2b2b2; }
+.gender label:hover strong { background:#b2b2b2; }
+.gender label img { margin:10px; color:#fff; }
+.gender label strong { display:block; padding:8px; color:#fff; background:#c2c2c2; font-size:18px; }
+.gender input:checked + .boy { border:2px solid #67bee0; }
+.gender input:checked + .boy strong { background:#67bee0; }
+.gender input:checked + .girl { border:2px solid #ff91c6; }
+.gender input:checked + .girl strong { background:#ff91c6; }
+.enter .firstname { }
+.enter .email {}
+.enter .actions {}
+.enter .legal { font-size:12px; color:#999; }
